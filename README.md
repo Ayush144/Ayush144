@@ -1,5 +1,5 @@
-### Hi there 👋, my name is  Ayush
-#### I am Software Developer
+### Hi there 👋, my name is  Ayush Tiwari
+#### I am a Software Developer
  I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
 
