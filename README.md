@@ -23,4 +23,4 @@ Skills:  REACT / JS / HTML / CSS / JAVA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush144)  
 
-![Profile views](https://gpvc.arturio.dev/Ayush144)  
+![Profile views](8K)  
