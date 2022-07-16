@@ -21,8 +21,6 @@ Skills:  REACT / JS / HTML / CSS / JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush144&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayush144)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush144)  
 
 ![Profile views](https://gpvc.arturio.dev/Ayush144)  
